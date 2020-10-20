@@ -1,7 +1,8 @@
 # CutForce
 前置: 用pipenv安裝相依套件
-
+Debug用分支為master/測試完成用main
 ```
+git clone -b master https://github.com/ling199104/CutForce.git
 !pip install pipenv
 !pipenv shell
 !pipenv install
